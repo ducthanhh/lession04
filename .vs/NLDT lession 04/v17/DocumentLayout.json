@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesssion01\\NLDT lession 04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|d:\\lesssion01\\nldt lession 04\\nldt lession 04\\controllers\\nldtcustomerscaffding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\controllers\\nldtcustomerscaffding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|D:\\lesssion01\\NLDT lession 04\\nldt lession 04\\views\\nldtcustumer\\nldtlistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\views\\nldtcustumer\\nldtlistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|D:\\lesssion01\\NLDT lession 04\\nldt lession 04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|D:\\lesssion01\\NLDT lession 04\\nldt lession 04\\views\\nldtcustumer\\nldtcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\views\\nldtcustumer\\nldtcustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|D:\\lesssion01\\NLDT lession 04\\nldt lession 04\\controllers\\nldtcustumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\controllers\\nldtcustumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|D:\\lesssion01\\NLDT lession 04\\nldt lession 04\\models\\nldtcustumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6E1A7-E7AE-4210-85A5-6ECAB78587AC}|NLDT lession 04\\NLDT lession 04.csproj|solutionrelative:nldt lession 04\\models\\nldtcustumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLDTCustomerScaffding.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Controllers\\NLDTCustomerScaffding.cs",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Controllers\\NLDTCustomerScaffding.cs",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Controllers\\NLDTCustomerScaffding.cs",
+              "RelativeToolTip": "NLDT lession 04\\Controllers\\NLDTCustomerScaffding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:41:58.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLDTListCustomer.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\NLDTcustumer\\NLDTListCustomer.cshtml",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Views\\NLDTcustumer\\NLDTListCustomer.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\NLDTcustumer\\NLDTListCustomer.cshtml",
+              "RelativeToolTip": "NLDT lession 04\\Views\\NLDTcustumer\\NLDTListCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:30:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NLDT lession 04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:26:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLDTcustomerDetail.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\NLDTcustumer\\NLDTcustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Views\\NLDTcustumer\\NLDTcustomerDetail.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Views\\NLDTcustumer\\NLDTcustomerDetail.cshtml",
+              "RelativeToolTip": "NLDT lession 04\\Views\\NLDTcustumer\\NLDTcustomerDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:19:16.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLDTcustumerController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Controllers\\NLDTcustumerController.cs",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Controllers\\NLDTcustumerController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Controllers\\NLDTcustumerController.cs",
+              "RelativeToolTip": "NLDT lession 04\\Controllers\\NLDTcustumerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:10:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NLDTcustumer.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Models\\NLDTcustumer.cs",
+              "RelativeDocumentMoniker": "NLDT lession 04\\Models\\NLDTcustumer.cs",
+              "ToolTip": "D:\\lesssion01\\NLDT lession 04\\NLDT lession 04\\Models\\NLDTcustumer.cs",
+              "RelativeToolTip": "NLDT lession 04\\Models\\NLDTcustumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:38:20.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
